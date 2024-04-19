@@ -1,3 +1,7 @@
+Welcome to CryptoTrader!
+
+<img width="315" alt="Screenshot 2023-12-15 at 10 42 25 AM" src=">
+
 This application is a basic cryptocurrency trader which allows the user to buy, sell, and swap any desired coin in their portfolio with the preset amount of $USDC.
 
 I have organized this app to allow the user to navigate between the different screens via the main menu. The first screen is a Buy window, which allows the user to select their desired crypto to purchase with their $USDC balance.
