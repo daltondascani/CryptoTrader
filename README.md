@@ -13,4 +13,4 @@ To The Swap window is used to allow the user to swap a coin for another, which a
 
 Overall, this program is a great starter application to introduce the user to cryptocurrency trading. In the future, I would like to improve upon this project and add real-time market values so the portfolio has the ability to gain value based off of the user buying and selling for profit or losses.
 
-I hope you enjoy this program and can learn how to buy, sell, and swap cryptocurrency with the CryptoTrader App!
+I hope you enjoy this program and learn how to buy, sell, and swap cryptocurrency with the CryptoTrader App!
