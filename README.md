@@ -1,6 +1,6 @@
 Welcome to CryptoTrader!
 
-<img width="315" alt="Screenshot 2023-12-15 at 10 42 25 AM" src=">
+src="https://github.com/daltondascani/CryptoTrader/assets/101837776/414f1d4f-2d2c-40cc-97c7-750afa624c2b">
 
 This application is a basic cryptocurrency trader which allows the user to buy, sell, and swap any desired coin in their portfolio with the preset amount of $USDC.
 
