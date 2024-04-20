@@ -3,7 +3,7 @@ Welcome to CryptoTrader!
 
 <img width="315" alt="Screenshot 2023-12-15 at 10 42 25 AM" src="https://github.com/daltondascani/CryptoTrader/assets/101837776/414f1d4f-2d2c-40cc-97c7-750afa624c2b">
 
-This application is a basic cryptocurrency trader that allows the user to buy, sell, and swap any desired coin in their portfolio with the preset amount of $USDC.
+This application is a basic cryptocurrency trader, developed using C++ and the Qt framework, which allows the user to buy, sell, and swap any desired coin in their portfolio with the preset amount of $USDC.
 
 This app is organized to allow the user to navigate between the different screens via the main menu. The first screen is a Buy window, which allows the user to select their desired crypto to purchase with their $USDC balance.
 
